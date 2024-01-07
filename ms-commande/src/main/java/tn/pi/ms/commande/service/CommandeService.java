@@ -54,11 +54,13 @@ public class CommandeService implements tn.pi.ms.commande.service.Service<Comman
     @Override
     public Commande save(Commande entity) {
         entity.setStatus("WAITING");
-        Commande commande = commandeRepository.save(entity);
+        Commande commande = commandeRepository.save(new Commande());
+        entity.setId(commande.getId());
+        commandeRepository.save(entity);
         CommandeEvent commandeEvent = new CommandeEvent();
         commandeEvent.setEventType("CREATION");
         commandeEvent.setCreationDate(new Date());
-        commandeEvent.setData(commande);
+        commandeEvent.setData(entity);
         boolean sent = publishEvent(commandeEvent,"commandes");
         if(sent){
             return commande;

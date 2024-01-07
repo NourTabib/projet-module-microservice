@@ -17,7 +17,7 @@ public class Commande {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
-    @OneToMany(mappedBy = "commande",fetch = FetchType.EAGER)
+    @OneToMany(mappedBy = "commande",fetch = FetchType.EAGER,cascade = CascadeType.ALL)
     private List<Item> items;
     private String status;
     public double calculerTolate(){

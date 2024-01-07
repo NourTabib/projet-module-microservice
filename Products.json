@@ -1,0 +1,212 @@
+[
+  {
+    "id": 0,
+    "ref": "ABC123",
+    "name": "Product 0",
+    "quantity": 0,
+    "price": 25.99
+  },
+  {
+    "id": 1,
+    "ref": "XYZ789",
+    "name": "Product 1",
+    "quantity": 210,
+    "price": 15.5
+  },
+  {
+    "id": 2,
+    "ref": "DEF456",
+    "name": "Product 2",
+    "quantity": 300,
+    "price": 10.0
+  },
+  {
+    "id": 3,
+    "ref": "GHI789",
+    "name": "Product 3",
+    "quantity": 30,
+    "price": 30.25
+  },
+  {
+    "id": 4,
+    "ref": "JKL012",
+    "name": "Product 4",
+    "quantity": 1440,
+    "price": 20.99
+  },
+  {
+    "id": 5,
+    "ref": "MNO345",
+    "name": "Product 5",
+    "quantity": 50,
+    "price": 18.75
+  },
+  {
+    "id": 6,
+    "ref": "PQR678",
+    "name": "Product 6",
+    "quantity": 60,
+    "price": 35.0
+  },
+  {
+    "id": 7,
+    "ref": "STU901",
+    "name": "Product 7",
+    "quantity": 70,
+    "price": 22.5
+  },
+  {
+    "id": 8,
+    "ref": "VWX234",
+    "name": "Product 8",
+    "quantity": 800,
+    "price": 27.75
+  },
+  {
+    "id": 9,
+    "ref": "YZA567",
+    "name": "Product 9",
+    "quantity": 90,
+    "price": 19.0
+  },
+  {
+    "id": 10,
+    "ref": "BCD890",
+    "name": "Product 10",
+    "quantity": 100,
+    "price": 32.5
+  },
+  {
+    "id": 11,
+    "ref": "EFG123",
+    "name": "Product 11",
+    "quantity": 5,
+    "price": 24.0
+  },
+  {
+    "id": 12,
+    "ref": "HIJ456",
+    "name": "Product 12",
+    "quantity": 15,
+    "price": 28.75
+  },
+  {
+    "id": 13,
+    "ref": "KLM789",
+    "name": "Product 13",
+    "quantity": 25,
+    "price": 17.25
+  },
+  {
+    "id": 14,
+    "ref": "NOP012",
+    "name": "Product 14",
+    "quantity": 35,
+    "price": 21.5
+  },
+  {
+    "id": 15,
+    "ref": "QRS345",
+    "name": "Product 15",
+    "quantity": 45,
+    "price": 29.99
+  },
+  {
+    "id": 16,
+    "ref": "TUV678",
+    "name": "Product 16",
+    "quantity": 1555,
+    "price": 26.25
+  },
+  {
+    "id": 17,
+    "ref": "WXY901",
+    "name": "Product 17",
+    "quantity": 65,
+    "price": 23.0
+  },
+  {
+    "id": 18,
+    "ref": "ZAB234",
+    "name": "Product 18",
+    "quantity": 75,
+    "price": 31.75
+  },
+  {
+    "id": 19,
+    "ref": "BCD567",
+    "name": "Product 19",
+    "quantity": 85,
+    "price": 18.5
+  },
+  {
+    "id": 20,
+    "ref": "EFG890",
+    "name": "Product 20",
+    "quantity": 95,
+    "price": 16.75
+  },
+  {
+    "id": 21,
+    "ref": "HIJ123",
+    "name": "Product 21",
+    "quantity": 80,
+    "price": 27.5
+  },
+  {
+    "id": 22,
+    "ref": "KLM456",
+    "name": "Product 22",
+    "quantity": 165,
+    "price": 22.0
+  },
+  {
+    "id": 23,
+    "ref": "NOP789",
+    "name": "Product 23",
+    "quantity": 500,
+    "price": 19.99
+  },
+  {
+    "id": 24,
+    "ref": "QRS012",
+    "name": "Product 24",
+    "quantity": 35,
+    "price": 26.25
+  },
+  {
+    "id": 25,
+    "ref": "TUV345",
+    "name": "Product 25",
+    "quantity": 420,
+    "price": 30.5
+  },
+  {
+    "id": 26,
+    "ref": "WXY678",
+    "name": "Product 26",
+    "quantity": 95,
+    "price": 18.0
+  },
+  {
+    "id": 27,
+    "ref": "ZAB901",
+    "name": "Product 27",
+    "quantity": 910,
+    "price": 25.75
+  },
+  {
+    "id": 28,
+    "ref": "BCD234",
+    "name": "Product 28",
+    "quantity": 815,
+    "price": 21.0
+  },
+  {
+    "id": 29,
+    "ref": "EFG567",
+    "name": "Product 29",
+    "quantity": 725,
+    "price": 17.5
+  }
+]
